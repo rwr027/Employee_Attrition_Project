@@ -11,7 +11,7 @@ The dataset came from [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm
 - Google Sheets - Data Cleaning
   - [Google Sheet Dataset](https://docs.google.com/spreadsheets/d/1PWb42eC21N4yXv2W8ZncqOxdTLSdWjT5d6mCqJYb_gQ/edit?usp=sharing)
 - Micorsoft SQL Server Management Studio - Data Analysis
-  - [SQL Code](https://github.com/rwr027/Richard_Rose_Portfolio/blob/332870f31217c54b177e4b42e7f220219beecb4d/Attrition_Dataset%20SQL%20Code.sql)
+  - [SQL Code](https://github.com/rwr027/Employee_Attrition_Project/blob/394f7c97bf9fe39bf3a86c8d233b732e1539dd7e/Attrition_Dataset%20SQL%20Code.sql)
 - Looker - Creating Report
   - [Google Looker](https://lookerstudio.google.com/s/s6BT2cDWhE0)
     
