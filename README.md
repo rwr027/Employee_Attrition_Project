@@ -4,7 +4,7 @@ This project focuses on analyzing employee attrition within a company. The workf
 ### Data Source
 
 Dataset: The primary dataset used for this analysis is the "Attrition_Dataset.csv" file, containing data that leads to employee attrition. 
-The dataset came from Kaggle (https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data).
+The dataset came from [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data).
 
 ### Tools
 
