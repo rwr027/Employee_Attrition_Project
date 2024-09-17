@@ -12,7 +12,7 @@ SELECT
     -- Count the total number of employees in each demographic group
     COUNT(*) AS TotalEmployees,
 
-    -- Sum the Attrition column to get the total number of employees who left
+    -- Sum of the Attrition column to get the total number of employees who are left
     SUM(CAST(Attrition AS INT)) AS AttritionCount,
 
     -- Calculate the attrition percentage
@@ -48,7 +48,7 @@ SELECT
     -- Count the total number of employees for each tenure group
     COUNT(*) AS TotalEmployees,
 
-    -- Sum the Attrition column to get the total number of employees who left
+    -- Sum of the Attrition column to get the total number of employees who are left
     SUM(CAST(Attrition AS INT)) AS AttritionCount,
 
     -- Calculate and format the attrition percentage with two decimal places
@@ -62,7 +62,7 @@ FROM
 GROUP BY 
     YearsAtCompany
 
--- Order the results by YearsAtCompany to show trends as tenure increases
+-- Order the results by (YearsAtCompany) to show trends as tenure increases
 ORDER BY 
     YearsAtCompany ASC;
 	
@@ -76,7 +76,7 @@ SELECT
     -- Count the total number of employees in each department
     COUNT(*) AS TotalEmployees,
 
-    -- Sum the Attrition column to get the total number of employees who left
+    -- Sum of the Attrition column to get the total number of employees who are left
     SUM(CAST(Attrition AS INT)) AS AttritionCount,
 
     -- Calculate and format the attrition percentage with two decimal places
